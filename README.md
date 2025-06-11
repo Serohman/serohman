@@ -1,6 +1,3 @@
-## Hi there 👋
+### My Articles
 
-Interested in AI/ML, blockchains and video games.
-
-
-
+[A Smart Background Removal with Transformers.js](https://medium.com/@quick.spoon4231/a-smart-background-removal-with-transformers-js-657bb5030eda)
